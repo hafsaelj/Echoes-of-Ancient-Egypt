@@ -13,7 +13,6 @@ License: CC BY 4.0
 ## roboflow
 
 egyptian heiroglyphics - v2 2023-05-20 12:17pm
-==============================
 
 This dataset was exported via roboflow.com on August 3, 2023 at 7:58 AM GMT
 
